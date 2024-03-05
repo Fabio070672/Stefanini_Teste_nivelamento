@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Questao5</name>
+    </assembly>
+    <members>
+        <member name="M:Questao5.Presentation.Controllers.AccountController.GetBalance(Questao5.Application.Handlers.IConsultHandler,Questao5.Application.Commands.Requests.AccountCommand)">
+            <summary>
+            Obtém saldo da conta corrente
+            </summary>
+            <param name="handler"></param>
+            <param name="numero"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Questao5.Presentation.Controllers.AccountController.PostMoviment(Questao5.Application.Handlers.IMovimentHandler,Questao5.Application.Commands.Requests.MovimentRequest)">
+            <summary>
+            Gera Movimentação da Conta Corrente
+            </summary>
+            <param name="handler"></param>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
