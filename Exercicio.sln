@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.2.32519.379
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Questao1", "Questao1\Questao1.csproj", "{24C20B4F-3D90-45C4-84F6-49CBB46DDDB4}"
 EndProject
@@ -9,15 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Questao2", "Questao2\Questa
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Questao3", "Questao3", "{2BB7EE80-1BF0-49A3-BDB2-2E9D04439829}"
 	ProjectSection(SolutionItems) = preProject
-		Questao3\Questões 3.docx = Questao3\Questões 3.docx
+		..\..\Users\fabio\OneDrive\Documentos\Stefanini\Questões 3.pdf = ..\..\Users\fabio\OneDrive\Documentos\Stefanini\Questões 3.pdf
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Questao4", "Questao4", "{D7C9B50D-678B-438F-8CCF-258F745DB194}"
 	ProjectSection(SolutionItems) = preProject
-		Questao4\Questão 4.docx = Questao4\Questão 4.docx
+		..\..\Users\fabio\OneDrive\Documentos\Stefanini\Questão 4.pdf = ..\..\Users\fabio\OneDrive\Documentos\Stefanini\Questão 4.pdf
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Questao5", "Questao5\Questao5.csproj", "{7B665AB7-6063-4EA5-A851-E41DBBE01242}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Questao5", "Questao5\Questao5.csproj", "{7B665AB7-6063-4EA5-A851-E41DBBE01242}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
